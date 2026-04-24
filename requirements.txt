@@ -1,0 +1,10 @@
+gymnasium
+stable-baselines3[extra]
+opencv-python
+pydirectinput
+mss
+pytesseract
+numpy
+pynput
+keyboard
+torch
